@@ -42,3 +42,10 @@ body {
     color:gray;
     font-size: 16px;
 }
+.form-check{
+    margin-left: 5px;
+    margin-top: 5px;
+}
+.form-check1{
+    margin-bottom: 20px;
+}
